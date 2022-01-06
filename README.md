@@ -1,7 +1,7 @@
-# [GroupID] Title of your final project
+# [GroupID: 2] Title of your final project
 
 ### Groups
-* name, student ID1
+* 朱宇方, 107703035
 * name, student ID2
 * name, student ID3
 * ...
