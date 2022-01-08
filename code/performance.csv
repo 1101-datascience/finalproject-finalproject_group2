@@ -1,0 +1,5 @@
+type,training,test
+NaiveBayes,0.81,0.81
+SVM,0.94,0.92
+Xgboost,0.99,0.95
+RandomForest,0.95,0.95

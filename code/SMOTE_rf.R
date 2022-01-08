@@ -4,7 +4,8 @@ library(tidyverse)
 library(caret)
 library(randomForest)
 library(DMwR)
-
+library("xgboost")
+library("caTools") 
 churner <- read.csv("BankChurners.csv", stringsAsFactors = FALSE)
 
 churners<-churner%>%
