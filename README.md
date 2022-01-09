@@ -2,12 +2,12 @@
 
 ### Groups
 * 朱宇方, 107703035
-* name, student ID2
-* name, student ID3
-* ...
+* 林子恩, 107703046 
+* 郭家瑜, 107308016
+* 穆永綸, 109971003
 
 ### Goal
-A breif introduction about your project, i.e., what is your goal?
+Predict if a customer is going to stop using the credit card services.
 
 ### Demo 
 You should provide an example commend to reproduce your result
@@ -26,7 +26,8 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 
 ### data
 
-* Source
+* Source : Credit Card customers from Kaggle
+* Url : https://www.kaggle.com/sakshigoyal7/credit-card-customers
 * Input format
 * Any preprocessing?
   * Handle missing data
