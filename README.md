@@ -16,7 +16,7 @@ Rscript  code/merged.R --input data/BankChurners.csv --output results/performanc
 
 ```
 * any on-line visualization
-  * Url: https://wutever0017.shinyapps.io/bankchurner_v1/
+  * Url：https://wutever0017.shinyapps.io/bankchurner_v1/
 ## Folder organization and its related information
 
 ### docs
