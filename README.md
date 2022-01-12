@@ -59,34 +59,34 @@ Rscript  code/merged.R --input data/BankChurners.csv --output results/performanc
 
 ## References
 * Code/implementation which you include/reference 
-[SMOTE] (https://www.rdocumentation.org/packages/DMwR/versions/0.4.1/topics/SMOTE)
+  * [SMOTE] (https://www.rdocumentation.org/packages/DMwR/versions/0.4.1/topics/SMOTE)
 
-[Mode] (https://www.tutorialspoint.com/r/r_mean_median_mode.htm)
-[Naive Bayes] (https://www.edureka.co/blog/naive-bayes-in-r/)
-[SVM] (https://www.rdocumentation.org/packages/e1071/versions/1.7-9/topics/svm)
-[One-hot Encoding] (https://www.rdocumentation.org/packages/caret/versions/6.0-90/topics/dummyVars)
-[Xgboost] (https://www.rdocumentation.org/packages/xgboost/versions/1.5.0.2/topics/xgb.train)
-[ggplot2] (https://ggplot2.tidyverse.org/index.html)
-[Random Forest] https://rpubs.com/phamdinhkhanh/389752)
+  * [Mode] (https://www.tutorialspoint.com/r/r_mean_median_mode.htm)
+  * [Naive Bayes] (https://www.edureka.co/blog/naive-bayes-in-r/)
+  * [SVM] (https://www.rdocumentation.org/packages/e1071/versions/1.7-9/topics/svm)
+  * [One-hot Encoding] (https://www.rdocumentation.org/packages/caret/versions/6.0-90/topics/dummyVars)
+  * [Xgboost] (https://www.rdocumentation.org/packages/xgboost/versions/1.5.0.2/topics/xgb.train)
+  * [ggplot2] (https://ggplot2.tidyverse.org/index.html)
+  * [Random Forest] https://rpubs.com/phamdinhkhanh/389752)
 
 * Packages you use
-library(e1071)
-library(caTools)
-library(caret)
-library(DMwR)
-library(randomForest)
-library(tidyverse)
-library(xgboost)
-library(party)
+  * library(e1071)
+  * library(caTools)
+  * library(caret)
+  * library(DMwR)
+  * library(randomForest)
+  * library(tidyverse)
+  * library(xgboost)
+  * library(party)
 
-library(shiny)
-library(ggbiplot)
-library(MASS)
-library(dplyr)
-library(ggplot2)
-library(RColorBrewer)
-library(gridExtra)
-library(cowplot)
+  * library(shiny)
+  * library(ggbiplot)
+  * library(MASS)
+  * library(dplyr)
+  * library(ggplot2)
+  * library(RColorBrewer)
+  * library(gridExtra)
+  * library(cowplot)
 
 * Related publications
-* Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: synthetic minority over-sampling technique. Journal of artificial intelligence research, 16, 321-357.
+  * Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: synthetic minority over-sampling technique. Journal of artificial intelligence research, 16, 321-357.
