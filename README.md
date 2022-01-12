@@ -12,7 +12,8 @@ Predict if a customer is going to stop using the credit card services.
 ### Demo 
 You should provide an example commend to reproduce your result
 ```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
+Rscript  code/merged.R --input data/BankChurners.csv --output results/performance.csv
+
 ```
 * any on-line visualization
   * Url: https://wutever0017.shinyapps.io/bankchurner_v1/
