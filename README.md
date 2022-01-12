@@ -67,7 +67,7 @@ Rscript  code/merged.R --input data/BankChurners.csv --output results/performanc
   * [One-hot Encoding](https://www.rdocumentation.org/packages/caret/versions/6.0-90/topics/dummyVars)
   * [Xgboost](https://www.rdocumentation.org/packages/xgboost/versions/1.5.0.2/topics/xgb.train)
   * [ggplot2](https://ggplot2.tidyverse.org/index.html)
-  * [Random Forest]https://rpubs.com/phamdinhkhanh/389752)
+  * [Random Forest](https://rpubs.com/phamdinhkhanh/389752)
 
 * Packages you use
   * library(e1071)
