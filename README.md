@@ -49,6 +49,7 @@ Rscript  code/merged.R --input data/BankChurners.csv --output results/performanc
   * precision, recall, R-square
 * Is your improvement significant?
 | type| training | testing |
+| --------- | -------- | -------- |
 | NaiveBayes| 0.81| 0.81| 
 | SVM| 0.94| 0.92| 
 | XGBoost| 0.99| 0.95| 
