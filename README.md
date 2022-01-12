@@ -50,10 +50,10 @@ Rscript  code/merged.R --input data/BankChurners.csv --output results/performanc
 * Is your improvement significant?
 | type| training | testing |
 | --------- | -------- | -------- |
-| NaiveBayes| 0.81| 0.81| 
-| SVM| 0.94| 0.92| 
-| XGBoost| 0.99| 0.95| 
-| Random Forest| 0.95 | 0.95| 
+| NaiveBayes| 0.81| 0.81 
+| SVM| 0.94| 0.92 
+| XGBoost| 0.99| 0.95
+| Random Forest| 0.95 | 0.95
 * What is the challenge part of your project?
 
 ## References
