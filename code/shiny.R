@@ -72,7 +72,6 @@ ui <- fluidPage(
                                     )
                       ),
               tabPanel("training data", plotOutput("train")),
-              tabPanel("Naive Bayes"),
               tabPanel("SVM", sidebarLayout(
                                 sidebarPanel(
                                   selectInput("x_axis", "select x-axis for PCA", pc, selected = pc[1]),
