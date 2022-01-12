@@ -15,23 +15,20 @@ You should provide an example commend to reproduce your result
 Rscript code/your_script.R --input data/training --output results/performance.tsv
 ```
 * any on-line visualization
-
+  * Url: https://wutever0017.shinyapps.io/bankchurner_v1/
 ## Folder organization and its related information
 
 ### docs
 * Your presentation, 1101_datascience_FP_<yourID|groupName>.ppt/pptx/pdf, by **Jan. 13**
-* Any related document for the final project
-  * papers
-  * software user guide
 
 ### data
 
 * Source : Credit Card customers from Kaggle
 * Url : https://www.kaggle.com/sakshigoyal7/credit-card-customers
-* Input format
+* Input format: CSV file
 * Any preprocessing?
-  * Handle missing data
-  * Scale value
+  * Handle missing data: Income_Category
+  * SMOTE
 
 ### code
 
