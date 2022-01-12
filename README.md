@@ -20,7 +20,7 @@ Rscript  code/merged.R --input data/BankChurners.csv --output results/performanc
 ## Folder organization and its related information
 
 ### docs
-* Your presentation, 1101_datascience_FP_<yourID|groupName>.ppt/pptx/pdf, by **Jan. 13**
+* Your presentation, docs/1101DS_Group2.pptx
 
 ### data
 
@@ -34,14 +34,25 @@ Rscript  code/merged.R --input data/BankChurners.csv --output results/performanc
 ### code
 
 * Which method do you use?
+  * Models for Classification Task
+  * SVM
+  * NaiveBayes
+  * XGBoost
+  * Random Forest
+  
 * What is a null model for comparison?
-* How do your perform evaluation? ie. cross-validation, or addtional indepedent data set
+  * Accuracy of Null Model : 0.8393
 
 ### results
 
 * Which metric do you use 
   * precision, recall, R-square
 * Is your improvement significant?
+| type| training | testing |
+| NaiveBayes| 0.81| 0.81| 
+| SVM| 0.94| 0.92| 
+| XGBoost| 0.99| 0.95| 
+| Random Forest| 0.95 | 0.95| 
 * What is the challenge part of your project?
 
 ## References
