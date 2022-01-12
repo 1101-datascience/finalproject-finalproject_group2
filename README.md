@@ -1,4 +1,4 @@
-# [GroupID: 2] Title of your final project
+# [GroupID: 2] Predict Churning Customers
 
 ### Groups
 * 朱宇方, 107703035
