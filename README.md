@@ -59,7 +59,7 @@ Rscript  code/merged.R --input data/BankChurners.csv --output results/performanc
 
 ## References
 * Code/implementation which you include/reference 
-  * [SMOTE] (https://www.rdocumentation.org/packages/DMwR/versions/0.4.1/topics/SMOTE)
+  * [SMOTE](https://www.rdocumentation.org/packages/DMwR/versions/0.4.1/topics/SMOTE)
 
   * [Mode] (https://www.tutorialspoint.com/r/r_mean_median_mode.htm)
   * [Naive Bayes] (https://www.edureka.co/blog/naive-bayes-in-r/)
